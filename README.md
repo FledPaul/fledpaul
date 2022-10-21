@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on whaticode, blockgen, unbluce<br>👯 I'm looking to collaborate on blockgen<br>🌱 I'm currently learning golang<br>💬 Ask me about design stuff<br>⚡ Fun fact, I'm actually 14 years old
+🔭 I'm currently working on whaticode, blockgen, unbluce<br>👯 I'm looking to collaborate on blockgen<br>🌱 I'm currently learning golang<br>💬 Ask me about design stuff
 
 
 ## 🌐 Socials:
@@ -21,5 +21,5 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fledpaul) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/roderpaul) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fledpaul) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <!-- Proudly created withb GPRM ( https://gprm.itsvg.in ) -->
   
