@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on whaticode, blockgen, unbluce<br>👯 I'm looking to collaborate on blockgen<br>🌱 I'm currently learning golang<br>💬 Ask me about design stuff
+- I'm into design, fintech, hacking and crypto
+- I'm currently learning blockchain developement
+- I'm interested in malware and malware reverse-engineering
 
 
 ## 🌐 Socials:
